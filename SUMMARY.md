@@ -2,19 +2,16 @@
 
 * [OpenCore UEFI 安全啟動](README.md)
 
-## MacOS
+## OpenCore 設置 <a id="opencore-setting"></a>
 
-* [Apple 安全啟動](macos/apple-secure-boot.md)
-* [DMG 加載](macos/dmg-loading.md)
-* [Vaulting](macos/vaulting.md)
+* [Apple 安全啟動](opencore-setting/apple-secure-boot.md)
+* [DMG 加載](opencore-setting/dmg-loading.md)
+* [Vaulting](opencore-setting/vaulting.md)
 
-## Linux
+## UEFI 設置 <a id="uefi"></a>
 
-* [Shim](linux/untitled.md)
-
-## UEFI
-
-* [Untitled](uefi/untitled.md)
+* [事前準備](uefi/untitled.md)
+* [為 SecureBoot 生成密鑰](uefi/wei-secureboot-sheng-cheng-mi-yue.md)
 
 ---
 
