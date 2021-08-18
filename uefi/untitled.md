@@ -18,7 +18,7 @@
 
 除了 Linux，我們還需要一些東西：  
 1. **openssl**，用於生成密鑰對並將證書從 DER 轉換為 PEM。  
-2. **efitools**，或者更確切地說是實用程序 cert-to-efi-sig-list、 sign-efi-sig-list用於將證書轉換為 ESL 格式並以此格式簽署文件，以及 KeyTool.efi 用於在 SetupMode 中管理系統密鑰。  
+2. **efitools**，或者更確切地說是 cert-to-efi-sig-list、 sign-efi-sig-list用於將證書轉換為 ESL 格式並以此格式簽署文件，以及 KeyTool.efi 用於在 SetupMode 中管理系統密鑰。  
 3. **sbsigntool**，或者更確切地說是用於使用您的密鑰簽署 UEFI 可執行文件（即加載程序、DXE 驅動程序、OptionROM 和 UEFI Shell 應用程序）的 sbsign 程序。
 
 啟動 Linux，安裝上述軟件包，在您的主目錄中打開一個終端並繼續下一步。
