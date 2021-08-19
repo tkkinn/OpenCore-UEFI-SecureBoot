@@ -1,5 +1,7 @@
 # Vaulting
 
+目前已知 Vaulting 與 UEFI SecureBoot 衝突。
+
 ### 什麼是 Vaulting？
 
 好的 Vaulting 基於兩件事，vault.plist 和 vault.sig：
