@@ -9,7 +9,7 @@
 3. `/BOOT`
 
 ```text
-sbsign --key DC.key --cert DB.crt --output <EFI> <EFI>
+sbsign --key DB.key --cert DB.crt --output <EFI> <EFI>
 ```
 
 

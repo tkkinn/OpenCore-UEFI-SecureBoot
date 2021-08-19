@@ -13,9 +13,9 @@
 * [事前準備](uefi-setting/preparing.md)
 * [為 SecureBoot 生成密鑰](uefi-setting/generating-keys-for-secureboot.md)
 * [安裝密鑰 - AMI AptioV](uefi-setting/install-key-ami-aptiov.md)
-* [安裝密鑰 - Insyde H2O](uefi-setting/an-zhuang-mi-yue-insyde-h2o.md)
-* [安裝密鑰 - Phoenix SCT](uefi-setting/an-zhuang-mi-yue-phoenix-sct.md)
-* [簽署 EFI](uefi-setting/qian-shu-efi.md)
+* [安裝密鑰 - Insyde H2O](uefi-setting/install-key-insyde-h2o.md)
+* [安裝密鑰 - Phoenix SCT](uefi-setting/install-key-phoenix-sct.md)
+* [簽署 EFI](uefi-setting/sign-efi.md)
 
 ---
 
