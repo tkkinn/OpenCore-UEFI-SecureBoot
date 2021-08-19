@@ -8,10 +8,11 @@
 * [DMG 加載](opencore-setting/dmg-loading.md)
 * [Vaulting](opencore-setting/vaulting.md)
 
-## UEFI 設置 <a id="uefi"></a>
+## UEFI 設置 <a id="uefi-setting"></a>
 
-* [事前準備](uefi/untitled.md)
-* [為 SecureBoot 生成密鑰](uefi/wei-secureboot-sheng-cheng-mi-yue.md)
+* [事前準備](uefi-setting/preparing.md)
+* [為 SecureBoot 生成密鑰](uefi-setting/generating-keys-for-secureboot.md)
+* [安裝密鑰 - AMI AptioV](uefi-setting/install-key-ami-aptiov.md)
 
 ---
 
