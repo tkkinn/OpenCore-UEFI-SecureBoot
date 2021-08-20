@@ -1,6 +1,7 @@
 # Table of contents
 
 * [OpenCore UEFI 安全啟動](README.md)
+* [已知問題](known-problem.md)
 
 ## OpenCore 設置 <a id="opencore-setting"></a>
 
